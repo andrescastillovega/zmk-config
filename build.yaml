@@ -20,5 +20,6 @@
 ---
 include:
   - board: nrfmicro_13
-    shield: [corne_left, corne_right]
-    name: ["Corne"]
+    shield: corne_left
+  - board: nrfmicro_13
+    shield: corne_right
